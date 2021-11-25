@@ -1,4 +1,4 @@
 # Online-Voting-System
-Created web pages suing JavaScript and mapped them with Java Servlets .
-One end was connected to database. Database was based on mysql. 
+Created web pages using JavaScript and mapped them with Java Servlets.
+Database backend based on MySql. 
 Apache Tomcat was used as sever page renderer. 
