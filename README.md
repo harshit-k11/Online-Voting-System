@@ -1,4 +1,3 @@
 # Online-Voting-System
-Created web pages using JavaScript and mapped them with Java Servlets.
-Database backend based on MySql. 
-Apache Tomcat was used as sever page renderer. 
+With Java and MySql, createdd an online portal for voting system. 
+Which can use a centralized data of voters, eliminating the use of EVM machines or going to the polling booth.
